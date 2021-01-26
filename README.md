@@ -1,6 +1,6 @@
 ### Hi there 👋, Diamond Nicholas
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://github.com/diamond-nicholas/diamond-nicholas/blob/main/profile%20photo.jpeg)
 
 I'm Nicholas Diamond from Nigeria, i'm a fullstack software developer. I really enjoy learning languages and its framework like Ruby on Rails and React. I love building projects and making them available before deadlines. I also enjoy UI/UX and designs.
 
