@@ -5,10 +5,12 @@ I'm Nicholas from Nigeria, a fullstack software developer. I really enjoy learni
 ## Skills and Experience
 * 💻 HTML, CSS, SASS, BOOTSTRAP
 * ❄ JAVASCRIPT
+* ❄ React & Redux
 * 💎RUBY , RUBY ON RAILS
+* 💎NodeJs
+* MongoDB, PostgreSQL
 
-- 🔭 I’m currently working on TicTacToe 
-- 🌱 I’m currently learning Ruby 
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diamond-nicholas)](https://github.com/anuraghazra/github-readme-stats)
 
