@@ -1,18 +1,8 @@
 
 # Diamond Nicholas
-I'm Nicholas from Nigeria, a fullstack software developer. I really enjoy learning languages and its framework like Ruby on Rails and React. I love building projects and making them available before deadlines. I also enjoy UI/UX and designs.
-
-## Skills and Experience
-* 💻 HTML, CSS, SASS, BOOTSTRAP
-* ❄ JAVASCRIPT
-* ❄ React & Redux
-* 💎RUBY , RUBY ON RAILS
-* 💎NodeJs
-* MongoDB, PostgreSQL
+I'm Nicholas from Nigeria, a fullstack software developer [javaScript, Python, Ruby]. I love building projects and making them available before deadlines. I also enjoy UI/UX and designs.
 
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diamond-nicholas)](https://github.com/anuraghazra/github-readme-stats)
 ![Nicholas GitHub stats](https://github-readme-stats.vercel.app/api?username=diamond-nicholas&show_icons=true&theme=radical)
 
 
