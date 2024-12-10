@@ -1,6 +1,6 @@
 
 # Diamond Nicholas
-Hello there, i'm Nicholas, a fullstack software developer and artificial intelligence engineer, skilled in languages like [javaScript, Python, Ruby]. I love building projects and making them available before deadlines. I also enjoy UI/UX and designs.
+Hello there, i'm Nicholas, a software engineer and I love building seamless architectures to make businesses scalable :) 
 
 
 ![Nicholas GitHub stats](https://github-readme-stats.vercel.app/api?username=diamond-nicholas&show_icons=true&theme=radical)
